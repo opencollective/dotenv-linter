@@ -1,6 +1,6 @@
-# ✌️dotenv-linter ![](https://github.com/mgrachev/dotenv-linter/workflows/CI/badge.svg) [![](https://codecov.io/gh/mgrachev/dotenv-linter/branch/master/graph/badge.svg)](https://codecov.io/gh/mgrachev/dotenv-linter) ![](https://img.shields.io/github/license/mgrachev/dotenv-linter) ![](https://img.shields.io/github/v/release/mgrachev/dotenv-linter)
+# dotenv-linter ![](https://github.com/mgrachev/dotenv-linter/workflows/CI/badge.svg) [![](https://codecov.io/gh/mgrachev/dotenv-linter/branch/master/graph/badge.svg)](https://codecov.io/gh/mgrachev/dotenv-linter) ![](https://img.shields.io/github/license/mgrachev/dotenv-linter) ![](https://img.shields.io/github/v/release/mgrachev/dotenv-linter)
 
-<p align="center">Linter for <code>.env</code> files. Written in Rust 🦀</p>
+<p align="center">✌️<b>Linter for <code>.env</code> files. Written in Rust</b> 🦀</p>
 <p align="center">
   <img alt="dotenv-linter" src="https://raw.githubusercontent.com/mgrachev/dotenv-linter/master/img/example.png" width="547" />
 </p>
